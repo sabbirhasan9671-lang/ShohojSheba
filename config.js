@@ -1,1 +1,1 @@
-window.SS_CONFIG={SUPABASE_URL:"https://euhjmaburrxgbniiviuf.supabase.co",SUPABASE_ANON_KEY:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV1aGptYWJ1cnJ4Z2JuaWl2aXVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU0NDc1MDUsImV4cCI6MjExMTAyMzUwNX0.skDGymNP8XOmx-tuUfzqQsQhLV6bwwwunk4SPMm7oKc"};
+window.SS_CONFIG={SUPABASE_URL:"https://euhjmaburrxgbniiviuf.supabase.co",SUPABASE_ANON_KEY:"sb_publishable_bJJlFH-AtwyLTS1Rg0udDg_sOzEV5DE"};
