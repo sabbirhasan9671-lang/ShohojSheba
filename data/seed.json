@@ -1,0 +1,478 @@
+[
+ {
+  "kind": "education",
+  "category": "বিশ্ববিদ্যালয়",
+  "title": "বিশ্ববিদ্যালয়",
+  "summary": "পাবলিক ও প্রাইভেট বিশ্ববিদ্যালয়ের তালিকা, ভর্তি যোগ্যতা, আবেদন পদ্ধতি, বিভাগ ও স্বীকৃতির তথ্য।",
+  "official_url": "https://ugc.gov.bd",
+  "source_name": "UGC",
+  "links": [
+   {
+    "label": "UGC",
+    "url": "https://ugc.gov.bd"
+   },
+   {
+    "label": "ঢাকা বিশ্ববিদ্যালয়",
+    "url": "https://du.ac.bd"
+   },
+   {
+    "label": "রাজশাহী বিশ্ববিদ্যালয়",
+    "url": "https://ru.ac.bd"
+   },
+   {
+    "label": "উন্মুক্ত বিশ্ববিদ্যালয়",
+    "url": "https://bou.edu.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 0
+ },
+ {
+  "kind": "education",
+  "category": "জাতীয় বিশ্ববিদ্যালয়",
+  "title": "জাতীয় বিশ্ববিদ্যালয়",
+  "summary": "অনার্স/ডিগ্রি/মাস্টার্স ভর্তি, রেজিস্ট্রেশন, ফরম পূরণ, পরীক্ষার রুটিন, ফলাফল ও কলেজভিত্তিক তথ্য।",
+  "official_url": "https://www.nu.ac.bd",
+  "source_name": "জাতীয় বিশ্ববিদ্যালয়",
+  "links": [
+   {
+    "label": "জাতীয় বিশ্ববিদ্যালয়",
+    "url": "https://www.nu.ac.bd"
+   },
+   {
+    "label": "NU Admission",
+    "url": "https://www.nu.ac.bd/admissions"
+   },
+   {
+    "label": "NU Results",
+    "url": "https://results.nu.ac.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 1
+ },
+ {
+  "kind": "education",
+  "category": "শিক্ষা বোর্ড",
+  "title": "শিক্ষা বোর্ড",
+  "summary": "SSC/HSC বিজ্ঞপ্তি, রেজিস্ট্রেশন, রুটিন, ফলাফল, পুনঃনিরীক্ষণ ও সনদ সংক্রান্ত তথ্য।",
+  "official_url": "https://www.educationboardresults.gov.bd",
+  "source_name": "ফলাফল পোর্টাল",
+  "links": [
+   {
+    "label": "ফলাফল পোর্টাল",
+    "url": "https://www.educationboardresults.gov.bd"
+   },
+   {
+    "label": "বিকল্প ফলাফল",
+    "url": "https://eduboardresults.gov.bd"
+   },
+   {
+    "label": "শিক্ষা বোর্ড",
+    "url": "https://educationboard.gov.bd"
+   },
+   {
+    "label": "ঢাকা বোর্ড",
+    "url": "https://dhakaeducationboard.gov.bd"
+   },
+   {
+    "label": "রাজশাহী বোর্ড",
+    "url": "https://rajshahieducationboard.gov.bd"
+   },
+   {
+    "label": "ময়মনসিংহ বোর্ড",
+    "url": "https://mymensingheducationboard.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 2
+ },
+ {
+  "kind": "education",
+  "category": "বৃত্তি ও উপবৃত্তি",
+  "title": "বৃত্তি ও উপবৃত্তি",
+  "summary": "সরকারি বৃত্তি-উপবৃত্তি, ভর্তি সহায়তা, ফেলোশিপ, যোগ্যতা ও সময়সীমা।",
+  "official_url": "https://pmeat.gov.bd",
+  "source_name": "PMEAT",
+  "links": [
+   {
+    "label": "PMEAT",
+    "url": "https://pmeat.gov.bd"
+   },
+   {
+    "label": "ই-ভর্তি সহায়তা",
+    "url": "https://eservice.pmeat.gov.bd/admission/"
+   },
+   {
+    "label": "উপবৃত্তি",
+    "url": "https://estipend.pmeat.gov.bd"
+   },
+   {
+    "label": "শিক্ষা মন্ত্রণালয়ের বৃত্তি",
+    "url": "https://shed.gov.bd/pages/moedu-scholarships"
+   },
+   {
+    "label": "UGC বৃত্তি",
+    "url": "https://ugc.gov.bd/service-details/scholarshipfellowship"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 3
+ },
+ {
+  "kind": "education",
+  "category": "ভর্তি ও আবেদন",
+  "title": "ভর্তি ও আবেদন",
+  "summary": "বিশ্ববিদ্যালয়, গুচ্ছ, মেডিকেল, ইঞ্জিনিয়ারিং, কলেজ, স্কুল ও পলিটেকনিক ভর্তি।",
+  "official_url": "https://admission.eis.du.ac.bd",
+  "source_name": "ঢাবি ভর্তি",
+  "links": [
+   {
+    "label": "ঢাবি ভর্তি",
+    "url": "https://admission.eis.du.ac.bd"
+   },
+   {
+    "label": "রাবি ভর্তি",
+    "url": "https://admission.ru.ac.bd"
+   },
+   {
+    "label": "বুয়েট",
+    "url": "https://www.buet.ac.bd"
+   },
+   {
+    "label": "BTEB ভর্তি",
+    "url": "https://btebadmission.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 4
+ },
+ {
+  "kind": "education",
+  "category": "পরীক্ষা ও ফলাফল",
+  "title": "পরীক্ষা ও ফলাফল",
+  "summary": "পরীক্ষার রুটিন, প্রবেশপত্র, কেন্দ্র, ফলাফল দেখার নির্দেশিকা ও পুনঃনিরীক্ষণ।",
+  "official_url": "https://www.educationboardresults.gov.bd",
+  "source_name": "Board Results",
+  "links": [
+   {
+    "label": "Board Results",
+    "url": "https://www.educationboardresults.gov.bd"
+   },
+   {
+    "label": "NU Results",
+    "url": "https://results.nu.ac.bd"
+   },
+   {
+    "label": "BTEB Results",
+    "url": "https://result.bteb.gov.bd"
+   },
+   {
+    "label": "Madrasah Results",
+    "url": "https://webresult.ebmeb.gov.bd/v2/home"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 5
+ },
+ {
+  "kind": "education",
+  "category": "স্কুল ও কলেজ",
+  "title": "স্কুল ও কলেজ",
+  "summary": "স্কুল-কলেজ ভর্তি, একাদশ শ্রেণি ভর্তি, পাঠ্যক্রম, ক্যালেন্ডার, MPO ও EIIN।",
+  "official_url": "https://dshe.gov.bd",
+  "source_name": "DSHE",
+  "links": [
+   {
+    "label": "DSHE",
+    "url": "https://dshe.gov.bd"
+   },
+   {
+    "label": "NCTB",
+    "url": "https://nctb.gov.bd"
+   },
+   {
+    "label": "BANBEIS",
+    "url": "https://banbeis.gov.bd"
+   },
+   {
+    "label": "একাদশ ভর্তি",
+    "url": "https://xiclassadmission.gov.bd"
+   },
+   {
+    "label": "প্রাথমিক শিক্ষা অধিদপ্তর",
+    "url": "https://dpe.gov.bd"
+   },
+   {
+    "label": "শিক্ষক বাতায়ন",
+    "url": "https://www.teachers.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 6
+ },
+ {
+  "kind": "education",
+  "category": "কারিগরি ও মাদ্রাসা শিক্ষা",
+  "title": "কারিগরি ও মাদ্রাসা শিক্ষা",
+  "summary": "পলিটেকনিক, ডিপ্লোমা, ভোকেশনাল, দাখিল-আলিম-ফাজিল, বোর্ড বিজ্ঞপ্তি ও ফলাফল।",
+  "official_url": "https://techedu.gov.bd",
+  "source_name": "কারিগরি অধিদপ্তর",
+  "links": [
+   {
+    "label": "কারিগরি অধিদপ্তর",
+    "url": "https://techedu.gov.bd"
+   },
+   {
+    "label": "BTEB",
+    "url": "https://bteb.gov.bd"
+   },
+   {
+    "label": "BTEB ভর্তি",
+    "url": "https://btebadmission.gov.bd"
+   },
+   {
+    "label": "মাদ্রাসা বোর্ড",
+    "url": "https://bmeb.gov.bd"
+   },
+   {
+    "label": "মাদ্রাসা অধিদপ্তর",
+    "url": "https://dme.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 7
+ },
+ {
+  "kind": "education",
+  "category": "বিদেশে উচ্চশিক্ষা",
+  "title": "বিদেশে উচ্চশিক্ষা",
+  "summary": "দেশভিত্তিক সুযোগ, স্কলারশিপ, IELTS/TOEFL, SOP/LOR, ভিসা ও আবেদন সময়সীমা।",
+  "official_url": "https://ugc.gov.bd",
+  "source_name": "UGC",
+  "links": [
+   {
+    "label": "UGC",
+    "url": "https://ugc.gov.bd"
+   },
+   {
+    "label": "Erasmus",
+    "url": "https://erasmus-plus.ec.europa.eu"
+   },
+   {
+    "label": "DAAD",
+    "url": "https://www.daad.de/en/"
+   },
+   {
+    "label": "Chevening",
+    "url": "https://www.chevening.org"
+   },
+   {
+    "label": "MEXT",
+    "url": "https://www.studyinjapan.go.jp/en/"
+   },
+   {
+    "label": "Commonwealth",
+    "url": "https://cscuk.fcdo.gov.uk"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 8
+ },
+ {
+  "kind": "education",
+  "category": "শিক্ষক নিয়োগ ও প্রশিক্ষণ",
+  "title": "শিক্ষক নিয়োগ ও প্রশিক্ষণ",
+  "summary": "NTRCA নিবন্ধন ও নিয়োগ, সরকারি শিক্ষক নিয়োগ, প্রশিক্ষণ ও পদোন্নতি।",
+  "official_url": "https://ntrca.gov.bd",
+  "source_name": "NTRCA",
+  "links": [
+   {
+    "label": "NTRCA",
+    "url": "https://ntrca.gov.bd"
+   },
+   {
+    "label": "DSHE",
+    "url": "https://dshe.gov.bd"
+   },
+   {
+    "label": "DPE",
+    "url": "https://dpe.gov.bd"
+   },
+   {
+    "label": "NAEM",
+    "url": "https://naem.gov.bd"
+   },
+   {
+    "label": "শিক্ষক বাতায়ন",
+    "url": "https://www.teachers.gov.bd"
+   },
+   {
+    "label": "Teletalk Jobs",
+    "url": "https://alljobs.teletalk.com.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 9
+ },
+ {
+  "kind": "service",
+  "category": "নাগরিক সেবা",
+  "title": "জাতীয় পরিচয়পত্র (NID)",
+  "summary": "নতুন ভোটার নিবন্ধন, সংশোধন, হারানো কার্ড পুনঃইস্যু, অনলাইন কপি ও যাচাই।",
+  "official_url": "https://services.nidw.gov.bd",
+  "source_name": "NID Services",
+  "links": [
+   {
+    "label": "NID Services",
+    "url": "https://services.nidw.gov.bd"
+   },
+   {
+    "label": "নির্বাচন কমিশন",
+    "url": "https://ecs.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 0
+ },
+ {
+  "kind": "service",
+  "category": "নাগরিক সেবা",
+  "title": "জন্ম নিবন্ধন",
+  "summary": "নতুন নিবন্ধন, সংশোধন, যাচাই ও অনলাইন আবেদন।",
+  "official_url": "https://bdris.gov.bd",
+  "source_name": "BDRIS",
+  "links": [
+   {
+    "label": "BDRIS",
+    "url": "https://bdris.gov.bd"
+   },
+   {
+    "label": "RGO",
+    "url": "https://orgbdr.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 1
+ },
+ {
+  "kind": "service",
+  "category": "নাগরিক সেবা",
+  "title": "পাসপোর্ট",
+  "summary": "ই-পাসপোর্ট আবেদন, রি-ইস্যু, পেমেন্ট, ট্র্যাকিং ও সংগ্রহ।",
+  "official_url": "https://www.epassport.gov.bd",
+  "source_name": "e-Passport",
+  "links": [
+   {
+    "label": "e-Passport",
+    "url": "https://www.epassport.gov.bd"
+   },
+   {
+    "label": "DIP",
+    "url": "https://dip.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 2
+ },
+ {
+  "kind": "service",
+  "category": "নাগরিক সেবা",
+  "title": "ভূমি সেবা",
+  "summary": "ই-নামজারি, খতিয়ান/পর্চা, ভূমি উন্নয়ন কর ও আবেদনের অবস্থা।",
+  "official_url": "https://land.gov.bd",
+  "source_name": "ভূমি মন্ত্রণালয়",
+  "links": [
+   {
+    "label": "ভূমি মন্ত্রণালয়",
+    "url": "https://land.gov.bd"
+   },
+   {
+    "label": "ই-নামজারি",
+    "url": "https://mutation.land.gov.bd"
+   },
+   {
+    "label": "ভূমি কর",
+    "url": "https://ldtax.gov.bd"
+   },
+   {
+    "label": "ই-পর্চা",
+    "url": "https://eporcha.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 3
+ },
+ {
+  "kind": "service",
+  "category": "নাগরিক সেবা",
+  "title": "সরকারি আবেদন",
+  "summary": "সনদ/প্রত্যয়ন, ট্রেড লাইসেন্স, অভিযোগ প্রতিকার ও আবেদন ট্র্যাকিং।",
+  "official_url": "https://www.mygov.bd",
+  "source_name": "myGov",
+  "links": [
+   {
+    "label": "myGov",
+    "url": "https://www.mygov.bd"
+   },
+   {
+    "label": "জাতীয় তথ্য বাতায়ন",
+    "url": "https://bangladesh.gov.bd"
+   },
+   {
+    "label": "GRS",
+    "url": "https://www.grs.gov.bd"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 4
+ },
+ {
+  "kind": "service",
+  "category": "নাগরিক সেবা",
+  "title": "অন্যান্য নাগরিক সেবা",
+  "summary": "ড্রাইভিং লাইসেন্স, পুলিশ ক্লিয়ারেন্স, ই-টিন, রেলের টিকিট, আইনগত সহায়তা। জরুরি: ৯৯৯, তথ্য ও সেবা: ৩৩৩।",
+  "official_url": "https://bangladesh.gov.bd/views/all-eservices-in-bangladesh",
+  "source_name": "সরকারি ই-সেবা তালিকা",
+  "links": [
+   {
+    "label": "সরকারি ই-সেবা তালিকা",
+    "url": "https://bangladesh.gov.bd/views/all-eservices-in-bangladesh"
+   }
+  ],
+  "status": "pending",
+  "is_urgent": false,
+  "is_published": true,
+  "sort": 5
+ }
+]
