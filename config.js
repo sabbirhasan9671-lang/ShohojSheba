@@ -1,2 +1,2 @@
 // Supabase > Project Settings > API থেকে নিন। anon key পাবলিক (RLS নিরাপত্তা দেয়); service_role key কখনো এখানে দেবেন না।
-window.SS_CONFIG={SUPABASE_URL:"ps://yldfmsxcaykkqzafotil.supabase.co",SUPABASE_ANON_KEY:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlsZGZtc3hjYXlra3F6YWZvdGlsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU0MjY4MTMsImV4cCI6MjExMTAwMjgxM30.t9ivZLrEygWM7BtNQcGsuq1qfqIUAjzSVe5QrIP73Rc"};
+window.SS_CONFIG={SUPABASE_URL:"https://euhjmaburrxgbniiviuf.supabase.co/rest/v1/o",SUPABASE_ANON_KEY:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV1aGptYWJ1cnJ4Z2JuaWl2aXVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU0NDc1MDUsImV4cCI6MjExMTAyMzUwNX0.skDGymNP8XOmx-tuUfzqQsQhLV6bwwwunk4SPMm7oKc"};
